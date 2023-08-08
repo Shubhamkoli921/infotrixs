@@ -109,3 +109,9 @@ body{
     margin: auto;
     cursor: pointer;
 }
+@media screen and (max-width: 800px){
+    .Tabs{
+        margin-bottom: 11rem;
+    }
+}
+
