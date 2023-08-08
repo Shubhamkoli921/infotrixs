@@ -149,7 +149,7 @@ function Calc() {
                 <div className="previous-operand">
                     {formatOperand(previousOperand)} {operation}
                 </div>
-                <div className="current-operand">{formatOperand(currentOperand)}</div>
+                <div className="current-operand">{formatOperand(currentOperand)}<div className="line"></div></div>
             </div>
             <button
                 className="operation"
