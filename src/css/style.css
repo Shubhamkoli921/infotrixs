@@ -91,13 +91,13 @@ body{
     color: orangered;
 }
 .equals{
-    /* color: white; */
+    color: white;
     display: flex;
     margin: auto;
     justify-content: center;
     width: 30px;
     border-radius: 5px;
-    /* background-color: orangered; */
+    background-color: orangered;
 }
 
 .center{
