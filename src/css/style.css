@@ -109,6 +109,18 @@ body{
     margin: auto;
     cursor: pointer;
 }
+.line{
+    height: 1px;
+    max-width: 350px;
+    background-color: gray;
+    flex-direction: column;
+    display: flex;
+    justify-content: center;
+    /* position: fixed; */
+    margin: auto;
+    margin-bottom: 1px;
+    /* line-height: 1rem; */
+}
 @media screen and (max-width: 800px){
     .Tabs{
         margin-bottom: 11rem;
